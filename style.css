@@ -4,7 +4,7 @@ body {
 	height: 100vh;
 	font-family: "Exo", sans-serif;
 	color: #ffffff;
-	background: linear-gradient( #8B4000, #ee7752, #FFBF00, #ff8c00 );
+	background: linear-gradient(90deg, rgba(0,255,48,1) 0%, rgba(0,242,255,1) 100%);
 	background-size: 400% 400%;
 	-webkit-animation: gradientBG 10s ease infinite;
 	        animation: gradientBG 10s ease infinite;
@@ -47,7 +47,7 @@ a {
 }
 
 .button-62 {
-  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  background: linear-gradient(90deg, rgba(0,255,255,1) 0%, rgba(33,0,255,1) 100%);
   border: 0;
   border-radius: 12px;
   color: #FFFFFF;
